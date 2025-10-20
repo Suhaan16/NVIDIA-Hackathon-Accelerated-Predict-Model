@@ -1,7 +1,6 @@
 # NVIDIA-Hackathon-Accelerated-Predictive-Modeling
 
-This project was developed as part of the NVIDIA Spooktacular Data Science Competition at ODSC West 2024, where our team ranked in the top 8 out of 45+ teams. Using NVIDIA’s RAPIDS suite on A100 GPUs, we processed and modeled an 8.52GB dataset containing 11 million samples with 106 features, optimizing for both speed and accuracy. [ODSC 2024 NVIDIA Hackathon Leaderboard on Kaggle](https://www.kaggle.com/competitions/odsc-2024-nvidia-hackathon/leaderboard)
-
+This project was developed as part of the NVIDIA Spooktacular Data Science Competition, where our team ranked in the top 8 out of 45+ teams. Using NVIDIA’s RAPIDS suite on A100 GPUs, we processed and modeled an 8.52GB dataset containing 11 million samples with 106 features, optimizing for both speed and accuracy.
 
 ## Project Overview
 The primary goal of this project was to build a high-performing predictive model that could efficiently process a large-scale dataset within a limited runtime, using GPU-accelerated libraries provided by NVIDIA RAPIDS.
@@ -25,10 +24,4 @@ The primary goal of this project was to build a high-performing predictive model
 ## Results
 - Runtime: Achieved a total runtime of 1 minute and 55 seconds on NVIDIA’s A100 GPU.
 - Performance: Ranked in the top 8 in the NVIDIA Spooktacular Data Science Competition, ODSC West 2024.
-
-<p align="center">
-<img src="I3.jpeg" alt="Logo" width="400" height = "300"/>
-<img src="I2.jpeg" alt="Logo" width="400" height = "300"/>
-<img src="I1.jpeg" alt="Logo" width="400" height = "550"/>
-</p>
 
